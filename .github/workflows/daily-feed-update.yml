@@ -1,0 +1,50 @@
+name: Daily Feed Update
+
+on:
+  schedule:
+    # Täglich um 6:00 Uhr UTC ausführen (8:00 Uhr MESZ)
+    - cron: '0 6 * * *'
+  # Manuelles Auslösen ermöglichen
+  workflow_dispatch:
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          # Vollständigen Git-Verlauf abrufen für Commit-Vergleiche
+          fetch-depth: 0
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+      
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install feedgen requests pytz
+      
+      - name: Run feed generator
+        run: |
+          python torgau_feed_generator.py
+      
+      - name: Check for changes
+        id: check_changes
+        run: |
+          if [[ -n $(git status --porcelain) ]]; then
+            echo "changes=true" >> $GITHUB_OUTPUT
+          else
+            echo "changes=false" >> $GITHUB_OUTPUT
+          fi
+      
+      - name: Commit and push if changes
+        if: steps.check_changes.outputs.changes == 'true'
+        run: |
+          git config --global user.name 'GitHub Actions Bot'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add docs/job_feed.xml data/seen_jobs.json
+          git commit -m "Automatisches Update des Job-Feeds am $(date +'%Y-%m-%d')"
+          git push
