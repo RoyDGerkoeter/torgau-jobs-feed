@@ -7,55 +7,83 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Fri, 04 Jul 2025 06:13:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Jul 2025 06:11:47 +0000</lastBuildDate>
     <item>
-      <title>Seitenhubstaplerfahrer (m/w/d)</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=12032-RS2F57234-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Gabelstaplerfahrer/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; DIEPA GmbH Filiale Wurzen&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04808 Wurzen Sachsen</description>
-      <guid isPermaLink="false">12032-RS2F57234-S</guid>
-      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
+      <title>Vertriebsinnendienst (m/w/d)</title>
+      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=12032-RG2E6C283-S</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Vertriebsberater/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; DIEPA GmbH Filiale Wurzen&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04808 Wurzen Sachsen</description>
+      <guid isPermaLink="false">12032-RG2E6C283-S</guid>
+      <pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Manager Qualitätssicherung (m/w/d)</title>
+      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=12032-RS24EF233-S</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Qualitätsmanager/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; DIEPA GmbH Filiale Wurzen&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04808 Wurzen Sachsen</description>
+      <guid isPermaLink="false">12032-RS24EF233-S</guid>
+      <pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zerspanungsmechaniker (m/w/d)</title>
+      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=12032-RD2C65263-S</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Zerspanungsmechaniker/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; DIEPA GmbH Filiale Wurzen&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04808 Wurzen Sachsen</description>
+      <guid isPermaLink="false">12032-RD2C65263-S</guid>
+      <pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CNC-Programmierer (m/w/d)</title>
+      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=12032-RS2471233-S</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; CAD-Fachkraft - Maschinenbau&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; DIEPA GmbH Filiale Wurzen&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04808 Wurzen Sachsen</description>
+      <guid isPermaLink="false">12032-RS2471233-S</guid>
+      <pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Speditionskaufmann/-frau (m/w/d)</title>
+      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=12032-RS2AE7233-S</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Speditionskaufmann/-frau&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; DIEPA GmbH Filiale Wurzen&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04808 Wurzen Sachsen</description>
+      <guid isPermaLink="false">12032-RS2AE7233-S</guid>
+      <pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Schlosser/Metallbauer (m/w/d)</title>
+      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=12032-RS2E2B263-S</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Metallbauer/in - Metallgestaltung&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; DIEPA GmbH Filiale Wurzen&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04808 Wurzen Sachsen</description>
+      <guid isPermaLink="false">12032-RS2E2B263-S</guid>
+      <pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Maschinen - und Anlagenfahrer (m/w/d)</title>
+      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=12032-RD2CA9243-S</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Maschinen- und Anlagenführer/in (o. Angabe des Schwerpunkts)&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; DIEPA GmbH Filiale Wurzen&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04808 Wurzen Sachsen</description>
+      <guid isPermaLink="false">12032-RD2CA9243-S</guid>
+      <pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Industrielackierer (m/w/d)</title>
+      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=12032-RS2AF3283-S</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Lackierer/in - Spritzlackierung&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; DIEPA GmbH Filiale Wurzen&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04808 Wurzen Sachsen</description>
+      <guid isPermaLink="false">12032-RS2AF3283-S</guid>
+      <pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Produktionsmitarbeiter (m/w/d)</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=12032-RS24252F4-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Helfer/in - Metallbearbeitung&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; DIEPA GmbH Filiale Wurzen&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04808 Wurzen Sachsen</description>
-      <guid isPermaLink="false">12032-RS24252F4-S</guid>
-      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
+      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=12032-RD2C6G2B3-S</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Produktionstechnologe/-technologin&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; DIEPA GmbH Filiale Wurzen&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04808 Wurzen Sachsen</description>
+      <guid isPermaLink="false">12032-RD2C6G2B3-S</guid>
+      <pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Hausmeister/in</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10000-1203005285-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Hausmeister/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Autohaus Wilhelm Neustadt e.K. Inh. Frank Neustadt&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04758 Oschatz Sachsen</description>
-      <guid isPermaLink="false">10000-1203005285-S</guid>
-      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
+      <title>Altenpfleger/in</title>
+      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10000-1202985460-S</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Altenpfleger/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Seniorenzentrum Am Gutspark GmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04862 Mockrehna Sachsen</description>
+      <guid isPermaLink="false">10000-1202985460-S</guid>
+      <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Hauswirtschaftshilfe (m/w/d)</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=17039-k58956.2838-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Helfer/in - Küche&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; RWS Cateringservice GmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04931 Mühlberg, Elbe Brandenburg</description>
-      <guid isPermaLink="false">17039-k58956.2838-S</guid>
-      <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Duales Studium BWL Handel - Filiale (B.A.) 2025</title>
-      <link>https://www.azubi.de/ausbildungsplatz/9081027-p-?utm_campaign=BAG&amp;utm_medium=premiumcpc&amp;utm_source=BAG</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Bankkaufmann/-frau&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Kaufland&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04808 Lossatal Sachsen</description>
-      <guid isPermaLink="false">12857-9081027-S</guid>
-      <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mitarbeiter Fertigung (m/w/d) Produktion</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=14385-439-2378432-25-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Helfer/in - Kunststoff, Kautschuk&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; ARWA Personaldienstleistungen GmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04938 Uebigau, Elster Brandenburg</description>
-      <guid isPermaLink="false">14385-439-2378432-25-S</guid>
-      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Produktionshelfer – Kunststoff/ Kautschuk (m/w/d) Produktion</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=14385-439-2378433-25-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Helfer/in - Elektro&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; ARWA Personaldienstleistungen GmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04938 Uebigau, Elster Brandenburg</description>
-      <guid isPermaLink="false">14385-439-2378433-25-S</guid>
-      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
+      <title>Kraftfahrzeugmechatroniker/in - Nutzfahrzeugtechnik</title>
+      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10000-1202977474-S</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Kraftfahrzeugmechatroniker/in - Nutzfahrzeugtechnik&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Fahrzeugservice Mockrehna GmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04862 Mockrehna Sachsen</description>
+      <guid isPermaLink="false">10000-1202977474-S</guid>
+      <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Vertriebsmitarbeiter (m/w/d) im Innendienst</title>
@@ -93,25 +121,18 @@
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Altenpfleger/in</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10000-1202985460-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Altenpfleger/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Seniorenzentrum Am Gutspark GmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04862 Mockrehna Sachsen</description>
-      <guid isPermaLink="false">10000-1202985460-S</guid>
-      <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
+      <title>Instandhaltungsmechaniker (m/w/d)</title>
+      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=12032-RS2EE7263-S</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Mechatroniker/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; DIEPA GmbH Filiale Wurzen&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04808 Thallwitz Sachsen</description>
+      <guid isPermaLink="false">12032-RS2EE7263-S</guid>
+      <pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Kraftfahrzeugmechatroniker/in - Nutzfahrzeugtechnik</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10000-1202977474-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Kraftfahrzeugmechatroniker/in - Nutzfahrzeugtechnik&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Fahrzeugservice Mockrehna GmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04862 Mockrehna Sachsen</description>
-      <guid isPermaLink="false">10000-1202977474-S</guid>
-      <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ausbildung 2025</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10000-1202861677-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Berufskraftfahrer/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Futtermittel Oberhoff GmbH &amp; Co.KG&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04886 Beilrode Sachsen</description>
-      <guid isPermaLink="false">10000-1202861677-S</guid>
-      <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
+      <title>Mechatroniker*in</title>
+      <link>https://studyflix.de/ausbildung/angebote/392014?l=706896&amp;utm_source=ba</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Mechatroniker/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; enviaM-Gruppe&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04895 Falkenberg, Elster Brandenburg</description>
+      <guid isPermaLink="false">16818-100706896-S</guid>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Pflegehelfer / Quereinsteiger</title>
@@ -121,11 +142,25 @@
       <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Mechatroniker*in</title>
-      <link>https://studyflix.de/ausbildung/angebote/392014?l=706896&amp;utm_source=ba</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Mechatroniker/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; enviaM-Gruppe&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04895 Falkenberg, Elster Brandenburg</description>
-      <guid isPermaLink="false">16818-100706896-S</guid>
+      <title>Ausbildung 2025</title>
+      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10000-1202861677-S</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Berufskraftfahrer/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Futtermittel Oberhoff GmbH &amp; Co.KG&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04886 Beilrode Sachsen</description>
+      <guid isPermaLink="false">10000-1202861677-S</guid>
+      <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kraftfahrzeugmechatroniker/in - Personenkraftwagentechnik</title>
+      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10001-1001557439-S</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Kraftfahrzeugmechatroniker/in - Personenkraftwagentechnik&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Steffen Höhle Autoservice Höhle&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04774 Dahlen, Sachsen Sachsen</description>
+      <guid isPermaLink="false">10001-1001557439-S</guid>
       <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ausbildung zum KFZ-Mechatroniker LKW (m/w/d)</title>
+      <link>https://www.azubi.de/ausbildungsplatz/9637408-p-?utm_campaign=BAG&amp;utm_medium=premiumcpc&amp;utm_source=BAG</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Kraftfahrzeugmechatroniker/in - Personenkraftwagentechnik&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Hiltl Fahrzeugbau GmbH &amp; Hiltl Truck Service GmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04862 Mockrehna Sachsen</description>
+      <guid isPermaLink="false">12857-9637408-S</guid>
+      <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Marktleiter (m/w/d)</title>
@@ -140,27 +175,6 @@
       <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Verkäufer/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Netto Marken-Discount Stiftung &amp; Co. KG&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04886 Beilrode Sachsen</description>
       <guid isPermaLink="false">18279-7-4971-7b544-S</guid>
       <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lagermitarbeiter in Torgau (m/w/d)</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10000-1202852639-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Fachkraft - Lagerlogistik&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; FRIES Holz- und Bodensysteme GmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04860 Torgau Sachsen</description>
-      <guid isPermaLink="false">10000-1202852639-S</guid>
-      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>LKW-Fahrer (m/w/d)</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10000-1202853105-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Berufskraftfahrer/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; FRIES Holz- und Bodensysteme GmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04860 Torgau Sachsen</description>
-      <guid isPermaLink="false">10000-1202853105-S</guid>
-      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ausbildung zum KFZ-Mechatroniker LKW (m/w/d)</title>
-      <link>https://www.azubi.de/ausbildungsplatz/9637408-p-?utm_campaign=BAG&amp;utm_medium=premiumcpc&amp;utm_source=BAG</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Kraftfahrzeugmechatroniker/in - Personenkraftwagentechnik&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Hiltl Fahrzeugbau GmbH &amp; Hiltl Truck Service GmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04862 Mockrehna Sachsen</description>
-      <guid isPermaLink="false">12857-9637408-S</guid>
-      <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Kraftfahrer (m/w/d)</title>
@@ -189,13 +203,6 @@
       <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Filialleiter/in, Verkaufsstellenleiter/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Netto Marken-Discount Stiftung &amp; Co. KG&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04860 Torgau Sachsen</description>
       <guid isPermaLink="false">18279-8-4957-7e17d-S</guid>
       <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mitarbeiter im Bereich Rehatechnik (m/w/d) - Quereinstieg möglich!</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10000-1202859215-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Rehabilitationsmitteltechniker/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Sanitätshaus Orthopädietechnik Seifert GmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04860 Torgau Sachsen</description>
-      <guid isPermaLink="false">10000-1202859215-S</guid>
-      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Fachkraft Schlüssel-/Schlosswesen mit Baustellenaufsicht (m/w/d)</title>
@@ -324,10 +331,10 @@
       <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Altenpfleger (m/w/d) stationäre Pflege</title>
-      <link>https://www.persy.jobs/persy/l/job-ffrqb-b</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Altenpfleger/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; pluss Personalmanagement GmbH Niederlassung Leipzig Care People&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04860 Torgau Sachsen</description>
-      <guid isPermaLink="false">12288-4310690522-S</guid>
+      <title>Produktionshelfer (m/w/d)</title>
+      <link>https://jobboard.compleet.com/?externalId=4288297874</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Helfer/in - Holz, Flechtwaren&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Randstad Deutschland&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04860 Torgau Sachsen</description>
+      <guid isPermaLink="false">11119-4288297874-S</guid>
       <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -338,17 +345,17 @@
       <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Altenpfleger (m/w/d) stationäre Pflege</title>
+      <link>https://www.persy.jobs/persy/l/job-ffrqb-b</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Altenpfleger/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; pluss Personalmanagement GmbH Niederlassung Leipzig Care People&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04860 Torgau Sachsen</description>
+      <guid isPermaLink="false">12288-4310690522-S</guid>
+      <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>IT-Systemadministrator für Infrastruktur (m/w/d)</title>
       <link>https://www.persy.jobs/persy/l/job-fzfl5-b</link>
       <description>&lt;strong&gt;Beruf:&lt;/strong&gt; IT-Systemadministrator/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Workwise GmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04860 Torgau Sachsen</description>
       <guid isPermaLink="false">12288-4310696381-S</guid>
-      <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Produktionshelfer (m/w/d)</title>
-      <link>https://jobboard.compleet.com/?externalId=4288297874</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Helfer/in - Holz, Flechtwaren&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Randstad Deutschland&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04860 Torgau Sachsen</description>
-      <guid isPermaLink="false">11119-4288297874-S</guid>
       <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -387,6 +394,13 @@
       <pubDate>Tue, 24 Jun 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Notfallsanitäter (m/w/d)</title>
+      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=14271-1438140-1-S</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Notfallsanitäter/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Johanniter-Unfall-Hilfe e.V. Landesverband Sachsen&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04860 Torgau Sachsen</description>
+      <guid isPermaLink="false">14271-1438140-1-S</guid>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Marktleiter (m/w/d)</title>
       <link>https://www.arbeitsagentur.de/jobsuche/suche?id=18279-8-4774-61d9d-S</link>
       <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Filialleiter/in, Verkaufsstellenleiter/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Netto Marken-Discount Stiftung &amp; Co. KG&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04860 Torgau Sachsen</description>
@@ -406,13 +420,6 @@
       <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Gesundheits- und Krankenpfleger/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; avanti GmbH Leipzig&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04860 Torgau Sachsen</description>
       <guid isPermaLink="false">10001-1001532110-S</guid>
       <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Notfallsanitäter (m/w/d)</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=14271-1438140-1-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Notfallsanitäter/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Johanniter-Unfall-Hilfe e.V. Landesverband Sachsen&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04860 Torgau Sachsen</description>
-      <guid isPermaLink="false">14271-1438140-1-S</guid>
-      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Altenpfleger (m/w/d) + Dienstwagen</title>
@@ -443,18 +450,18 @@
       <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Fahrzeugpfleger/in</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10000-1202971915-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Fahrzeugpfleger/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Autohaus Michael Glaubrecht&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04860 Torgau Sachsen</description>
-      <guid isPermaLink="false">10000-1202971915-S</guid>
-      <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Einkäufer (m/w/d)</title>
       <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10001-1001555970-S</link>
       <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Einkäufer/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; AVANCIS GmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04860 Torgau Sachsen</description>
       <guid isPermaLink="false">10001-1001555970-S</guid>
       <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fahrzeugpfleger/in</title>
+      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10000-1202971915-S</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Fahrzeugpfleger/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Autohaus Michael Glaubrecht&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04860 Torgau Sachsen</description>
+      <guid isPermaLink="false">10000-1202971915-S</guid>
+      <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Ausbildung zum Koch (m/w/d)</title>
@@ -611,6 +618,13 @@
       <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Industriemechaniker</title>
+      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10001-1001557251-S</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Industriemechaniker/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Torgauer Maschinenbau GmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04860 Torgau Sachsen</description>
+      <guid isPermaLink="false">10001-1001557251-S</guid>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Pflegefachmann/-frau (Altenpflege)</title>
       <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10000-1202983364-S</link>
       <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Pflegefachmann/-frau (Altenpflege)&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Hauskrankenpflege Dorit Huth&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04860 Torgau Sachsen</description>
@@ -653,13 +667,6 @@
       <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>IT-Administrator Ansible (m/w/d)</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10001-1001520251-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; IT-Administrator/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; ncsolution GmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; Torgau Sachsen</description>
-      <guid isPermaLink="false">10001-1001520251-S</guid>
-      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Betriebselektriker in der Instandhaltung (m/w/d)</title>
       <link>https://www.persy.jobs/persy/l/job-g5wav-b</link>
       <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Industrieelektriker/in - Betriebstechnik&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Workwise GmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04860 Torgau Sachsen</description>
@@ -674,20 +681,6 @@
       <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Fachkraft für Arbeitssicherheit / Sicherheitsingenieur</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10001-1001539669-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Fachkraft - Arbeitssicherheit&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; avertas Service GmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; Torgau Sachsen</description>
-      <guid isPermaLink="false">10001-1001539669-S</guid>
-      <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fachassistent/in für Arbeitssicherheit (m/w/d)</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10001-1001539588-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Fachkraft - Arbeitssicherheit&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; avertas Service GmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; Torgau Sachsen</description>
-      <guid isPermaLink="false">10001-1001539588-S</guid>
-      <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Netzwerkkoordinatoren (m/w/d) in Vollzeit (38h/Woche)</title>
       <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10000-1202933972-S</link>
       <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Sozialarbeiter/in / Sozialpädagoge/-pädagogin&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Lebenshilfe Torgau e.V.&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; Torgau Sachsen</description>
@@ -695,7 +688,7 @@
       <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Helfer/Sequenzierer mit ukrainischen und polnischen Sprachkenntnissen</title>
+      <title>Helfer/Sequenzierer mit ukrainischen und/oder polnischen Sprachkenntnissen</title>
       <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10001-1001551779-S</link>
       <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Helfer/in - Lagerwirtschaft, Transport&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Project Phoenix Personaldienstleistungen GmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; Torgau Sachsen</description>
       <guid isPermaLink="false">10001-1001551779-S</guid>
@@ -707,6 +700,13 @@
       <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Gebäudereiniger/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; ISD Immobilien Service Deutschland  GmbH &amp; Co. KG&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; Torgau Sachsen</description>
       <guid isPermaLink="false">17309-acca19a8e84d49d-S</guid>
       <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Netzwerkadministrator (m/w/d)</title>
+      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10001-1001558178-S</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Netzwerkadministrator/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; ncsolution GmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; Torgau Sachsen</description>
+      <guid isPermaLink="false">10001-1001558178-S</guid>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
