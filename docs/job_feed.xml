@@ -7,300 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Sat, 16 Aug 2025 06:12:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 Aug 2025 06:12:24 +0000</lastBuildDate>
     <item>
-      <title>Ausbildung Pflegefachfrau/-mann (m/w/d) 2026</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10000-1203446590-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Pflegefachmann/-frau (Ausbildung)&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Pro Civitate Pfl. u. Betr. gGmbH Wohnstätte Prieschka&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04924 Prieschka Brandenburg</description>
-      <guid isPermaLink="false">10000-1203446590-S</guid>
+      <title>Hauswirtschafter/in</title>
+      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10001-1001688517-S</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Hauswirtschafter/in (ohne Schwerpunkte)&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; AWO Pflege- u.Betreuungs gGmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04774 Dahlen, Sachsen Sachsen</description>
+      <guid isPermaLink="false">10001-1001688517-S</guid>
       <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mitarbeiter (m/w/d) im Verkauf Bäcker und Bistro</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10001-1001689503-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Fachverkäufer/in - Lebensmittelhandwerk (Bäckerei)&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Andrea Pohl neuerjob24.de Personalvermittlung/-service&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 01591 Riesa Sachsen</description>
-      <guid isPermaLink="false">10001-1001689503-S</guid>
-      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Physiotherapeut/in, Masseur/in (m/w/d)</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10000-1203442843-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Masseur/in und medizinische/r Bademeister/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Physiotherapie Krebs&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04924 Maasdorf bei Falkenberg, Elster Brandenburg</description>
-      <guid isPermaLink="false">10000-1203442843-S</guid>
-      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ATA (m/w/d) + Dienstwagen</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10001-1001685886-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Anästhesietechnische/r Assistent/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; avanti GmbH Leipzig&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04838 Eilenburg Sachsen</description>
-      <guid isPermaLink="false">10001-1001685886-S</guid>
-      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Staplerfahrer (m/w/d)</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=12122-189378-1712421-0-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Gabelstaplerfahrer/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; persona service AG &amp; Co. KG&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04758 Oschatz Sachsen</description>
-      <guid isPermaLink="false">12122-189378-1712421-0-S</guid>
-      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Instandhaltungsmechaniker (m/w/d)</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=12122-189365-1712399-0-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Instandhaltungstechniker/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; persona service AG &amp; Co. KG&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04758 Oschatz Sachsen</description>
-      <guid isPermaLink="false">12122-189365-1712399-0-S</guid>
-      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Metallbauer (m/w/d)</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=12122-189351-1712327-0-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; CAD-Fachkraft - Metall&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; persona service AG &amp; Co. KG&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04758 Oschatz Sachsen</description>
-      <guid isPermaLink="false">12122-189351-1712327-0-S</guid>
-      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Produktionsmitarbeiter Matratzenherstellung (m/w/d)</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=12122-189381-1712436-0-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Helfer/in - Lagerwirtschaft, Transport&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; persona service AG &amp; Co. KG&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04758 Oschatz Sachsen</description>
-      <guid isPermaLink="false">12122-189381-1712436-0-S</guid>
-      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Schlosser mit MAG Schweißkenntnissen  (40726)</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=12237-G2Q770ZPQPWGCBKY-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; MAG-Schweißer/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; HIT Leipzig&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04838 Eilenburg Sachsen</description>
-      <guid isPermaLink="false">12237-G2Q770ZPQPWGCBKY-S</guid>
-      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lagermitarbeiter m/w/d (42451)</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=12237-Y3M6JMHZX7Y4TZFR-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Kommissionierer/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; HIT Leipzig&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04838 Eilenburg Sachsen</description>
-      <guid isPermaLink="false">12237-Y3M6JMHZX7Y4TZFR-S</guid>
-      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Baustoffprüfer* Gesteinskörnung *M|W|D - Altenau (Mühlberg/Elbe)</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10001-1001684176-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Baustoffprüfer/in - Mörtel- und Betontechnik&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Berger Beton SE&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04931 Altenau bei Mühlberg, Elbe Brandenburg</description>
-      <guid isPermaLink="false">10001-1001684176-S</guid>
-      <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fahrer m/w/d - Auslieferung beim Endkunden + Kundenberatung - TOP Vergütung</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10001-1001689000-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Servicefahrer/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Personaltaucher GmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04924 Bad Liebenwerda Brandenburg</description>
-      <guid isPermaLink="false">10001-1001689000-S</guid>
-      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Maschinenführer Stanzautomaten (m/w/d) dringend</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=14385-439-2408571-25-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Stanz- und Umformmechaniker/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; ARWA Personaldienstleistungen GmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04938 Uebigau, Elster Brandenburg</description>
-      <guid isPermaLink="false">14385-439-2408571-25-S</guid>
-      <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bauingenieur (m/w/d)</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10000-1203448864-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Ingenieur/in - Bau&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Landratsamt Nordsachsen&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04838 Eilenburg Sachsen</description>
-      <guid isPermaLink="false">10000-1203448864-S</guid>
-      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mitarbeiter/in (m/w/d) Gebäudereinigung gesucht</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10000-1203418065-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Gebäudereiniger/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Gut Trossin Verwaltungsgesellschaft mbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04880 Trossin Sachsen</description>
-      <guid isPermaLink="false">10000-1203418065-S</guid>
-      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sachbearbeiter (m/w/d)</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=13247-42143-20448839918-0-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Bürokaufmann/-frau&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; zeitconcept GmbH Personaldienstleistungen  &lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04895 Falkenberg, Elster Brandenburg</description>
-      <guid isPermaLink="false">13247-42143-20448839918-0-S</guid>
-      <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sachbearbeiter Engineering (m/w/d) intermediate</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=12384-13395139-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Bürokaufmann/-frau&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Actief Personalmanagement GmbH Leipzig&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04895 Falkenberg, Elster Brandenburg</description>
-      <guid isPermaLink="false">12384-13395139-S</guid>
-      <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ausbildung Kaufmann im Einzelhandel (m/w/d)</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=12608-1308172-11864-1-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Kaufmann/-frau - Einzelhandel&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Penny-Markt GmbH Verwaltung&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04895 Falkenberg, Elster Brandenburg</description>
-      <guid isPermaLink="false">12608-1308172-11864-1-S</guid>
-      <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pflegekraft (w/m/d) in der Wohnstätte für Senioren</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10000-1203421435-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Altenpflegehelfer/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; AWO Bezirksverband BB Süd e.V.&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04895 Falkenberg, Elster Brandenburg</description>
-      <guid isPermaLink="false">10000-1203421435-S</guid>
-      <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ausbildung Kaufmann im Einzelhandel (m/w/d)</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=12608-1308117-8839-1-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Kaufmann/-frau - Einzelhandel&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Penny-Markt GmbH Verwaltung&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04774 Dahlen, Sachsen Sachsen</description>
-      <guid isPermaLink="false">12608-1308117-8839-1-S</guid>
-      <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fachgesundheits- und Krankenpfleger OP (m/w/d) + Dienstwagen</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10001-1001685888-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Fachkrankenschwester/-pfleger - Operationsdienst&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; avanti GmbH Leipzig&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04808 Wurzen Sachsen</description>
-      <guid isPermaLink="false">10001-1001685888-S</guid>
-      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Heilerziehungspfleger (m/w/d) + Dienstwagen</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10001-1001685890-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Heilerziehungspfleger/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; avanti GmbH Leipzig&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04808 Wurzen Sachsen</description>
-      <guid isPermaLink="false">10001-1001685890-S</guid>
-      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fachgesundheits- und Krankenpfleger Anästhesie Intensiv (m/w/d) + Dienstwagen</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10001-1001685892-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Fachkrankenpfleger/in - Intensivpflege/Anästhesie&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; avanti GmbH Leipzig&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04808 Wurzen Sachsen</description>
-      <guid isPermaLink="false">10001-1001685892-S</guid>
-      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vertriebsmitarbeiter (m/w/d) im Innendienst</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=12210-6db736ae0227433-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Industriekaufmann/-frau&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; DIE JOBMACHER GmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04808 Wurzen Sachsen</description>
-      <guid isPermaLink="false">12210-6db736ae0227433-S</guid>
-      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anlagenmechaniker für Heizungs-/Lüftungsanlagen (m/w/d)</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=16082-CXAP3PL6I3R11CT1-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Anlagenmechaniker/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Me-Ma-Tec Industriedienste GmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04808 Wurzen Sachsen</description>
-      <guid isPermaLink="false">16082-CXAP3PL6I3R11CT1-S</guid>
-      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mitarbeiter Paneelmontage (w/m/d)</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=16082-MPGPQ65B4ZVEHO6E-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Helfer/in - Metallbearbeitung&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Me-Ma-Tec Industriedienste GmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04808 Wurzen Sachsen</description>
-      <guid isPermaLink="false">16082-MPGPQ65B4ZVEHO6E-S</guid>
-      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mitarbeiter Verpackung (m/w/d)</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=16082-4BDF5NHKA9ZO3IU9-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Helfer/in - Metallbau&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Me-Ma-Tec Industriedienste GmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04808 Wurzen Sachsen</description>
-      <guid isPermaLink="false">16082-4BDF5NHKA9ZO3IU9-S</guid>
-      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mitarbeiter Palettenbau (m/w/d)</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=16082-4S9OGJZWY76UA0ZJ-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Tischler/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Me-Ma-Tec Industriedienste GmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04808 Wurzen Sachsen</description>
-      <guid isPermaLink="false">16082-4S9OGJZWY76UA0ZJ-S</guid>
-      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Montagemitarbeiter Quereinsteiger (m/w/d) dringend</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=14385-439-2409570-25-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Helfer/in - Hochbau&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; ARWA Personaldienstleistungen GmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 01616 Strehla Sachsen</description>
-      <guid isPermaLink="false">14385-439-2409570-25-S</guid>
-      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Warenverräumer/Regalauffüller (m/w/d) Teilzeit</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=12942-1465866-1-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Helfer/in - Lagerwirtschaft, Transport&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Dirk Rossmann GmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04916 Herzberg, Elster Brandenburg</description>
-      <guid isPermaLink="false">12942-1465866-1-S</guid>
-      <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mitarbeiter (m/w/d) für die Unterhalts- und Gebäudereinigung</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10000-1203452571-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Gebäudereiniger/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; S &amp; S Dienstleistungen und Gebäudereinigung GmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04916 Herzberg, Elster Brandenburg</description>
-      <guid isPermaLink="false">10000-1203452571-S</guid>
-      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ausbildung zum Kaufmann für Versicherungen und Finanzanlagen (m/w/d)</title>
-      <link>https://www.jobcluster.de/stellenangebot/ausbildung-zum-kaufmann-fuer-versicherungen-und-finanzanlagen-m-w-d---job--30553.html?tc=3-11</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Kaufmann/-frau - Versicherungen und Finanzanlagen&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Allianz Geschäftsstelle Leipzig&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04880 Dommitzsch Sachsen</description>
-      <guid isPermaLink="false">11959-30553-S</guid>
-      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ausbildung Kaufmann im Einzelhandel (m/w/d)</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=12608-1309064-9961-1-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Kaufmann/-frau - Einzelhandel&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Penny-Markt GmbH Verwaltung&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04880 Dommitzsch Sachsen</description>
-      <guid isPermaLink="false">12608-1309064-9961-1-S</guid>
-      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fertigungshelfer (m/w/d) dringend</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=14385-439-2409569-25-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Holzbearbeitungsmechaniker/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; ARWA Personaldienstleistungen GmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04924 Lausitz Brandenburg</description>
-      <guid isPermaLink="false">14385-439-2409569-25-S</guid>
-      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Podologe/Podologin</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10000-1203413282-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Podologe/Podologin&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Kosmetiksalon Inh. Anett Müller Ochsensaal&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04774 Dahlen, Sachsen Sachsen</description>
-      <guid isPermaLink="false">10000-1203413282-S</guid>
-      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Wagenmeister G (m/w/d)</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10001-1001682533-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Wagenmeister/in (Schienenverkehr)&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; STAV GmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04895 Falkenberg, Elster Brandenburg</description>
-      <guid isPermaLink="false">10001-1001682533-S</guid>
-      <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Baumaschinenbediener/ 2 Wege Baggerfahrer (m/w/d)</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10001-1001682549-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Baumaschinenführer/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; STAV GmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04895 Falkenberg, Elster Brandenburg</description>
-      <guid isPermaLink="false">10001-1001682549-S</guid>
-      <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Diesel-/E-Lokführer (m/w/d)</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10001-1001682562-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Eisenbahner/in - Betriebsdienst - Lokführer/in und Transport&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; STAV GmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04895 Falkenberg, Elster Brandenburg</description>
-      <guid isPermaLink="false">10001-1001682562-S</guid>
-      <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rangierbegleiter/Arbeitszugführer (m/w/d)</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10001-1001682582-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Rangierbegleiter/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; STAV GmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04895 Falkenberg, Elster Brandenburg</description>
-      <guid isPermaLink="false">10001-1001682582-S</guid>
-      <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Verkäufer Obst &amp; Gemüse (m/w/d)</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=12608-1316953-8839-1-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Verkäufer/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; REWE Markt GmbH ZwNL Ost&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04774 Dahlen, Sachsen Sachsen</description>
-      <guid isPermaLink="false">12608-1316953-8839-1-S</guid>
-      <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Koch (m/w/d)</title>
-      <link>https://www.jobexport.de/job/4880144.html?exp=81&amp;cid=a7aff08a-9af7-4e9c-9f13-5ab4c1402401</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Koch/Köchin&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; MEDIAN Zentrum für Rehabilitation Schmannewitz&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04774 Dahlen, Sachsen Sachsen</description>
-      <guid isPermaLink="false">13635-a7aff08a_JB4880144-S</guid>
-      <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Küchenhilfe (m/w/d)</title>
-      <link>https://www.jobexport.de/job/4880151.html?exp=81&amp;cid=0773cb22-ca16-4762-992e-a77f4c4e4ecf</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Helfer/in - Küche&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; MEDIAN Zentrum für Rehabilitation Schmannewitz&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04774 Dahlen, Sachsen Sachsen</description>
-      <guid isPermaLink="false">13635-0773cb22_JB4880151-S</guid>
-      <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Pflegefachkraft (m/w/d) in der Intensivpflege (1:1 Betreu...</title>
@@ -315,20 +28,6 @@
       <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Kaufmann/-frau - Einzelhandel&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Penny-Markt GmbH Verwaltung&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04862 Mockrehna Sachsen</description>
       <guid isPermaLink="false">12608-1309530-10931-1-S</guid>
       <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sachbearbeiter Grundwasserwirtschaft (m/w/d)</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10000-1203451939-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Ingenieur/in - Wasserwirtschaft&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Landkreis Elbe-Elster Der Landrat&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04916 Herzberg, Elster Brandenburg</description>
-      <guid isPermaLink="false">10000-1203451939-S</guid>
-      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hauswirtschafter/in</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10001-1001688517-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Hauswirtschafter/in (ohne Schwerpunkte)&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; AWO Pflege- u.Betreuungs gGmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04774 Dahlen, Sachsen Sachsen</description>
-      <guid isPermaLink="false">10001-1001688517-S</guid>
-      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Ausbildung 2026</title>
@@ -359,20 +58,6 @@
       <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Ausbildung Kaufmann im Einzelhandel (m/w/d)</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=12608-1308184-10931-1-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Kaufmann/-frau - Einzelhandel&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Penny-Markt GmbH Verwaltung&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04862 Mockrehna Sachsen</description>
-      <guid isPermaLink="false">12608-1308184-10931-1-S</guid>
-      <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Erzieher (m/w/d)</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10000-1203433871-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Erzieher/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Stadtverwaltung Dommitzsch&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04880 Dommitzsch Sachsen</description>
-      <guid isPermaLink="false">10000-1203433871-S</guid>
-      <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Sachbearbeiter Engineering (m/w/d)</title>
       <link>https://www.arbeitsagentur.de/jobsuche/suche?id=12265-466261_JB4880528-S</link>
       <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Techniker/in - Mechatronik/B. Prof. Technik&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; FERCHAU GmbH Niederlassung Dresden&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04895 Falkenberg, Elster Brandenburg</description>
@@ -385,6 +70,307 @@
       <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Pflegeassistent/in (Gesundheits- und Krankenpflege)&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; MEDIAN Zentrum für Rehabilitation Schmannewitz&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04774 Dahlen, Sachsen Sachsen</description>
       <guid isPermaLink="false">13635-4f8de9e3_JB4880161-S</guid>
       <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Erzieher (m/w/d)</title>
+      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10000-1203433871-S</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Erzieher/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Stadtverwaltung Dommitzsch&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04880 Dommitzsch Sachsen</description>
+      <guid isPermaLink="false">10000-1203433871-S</guid>
+      <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Medizinisch-technische Radiologieassistenten (m/w/d)</title>
+      <link>https://www.jobboerse-direkt.de/stellenangebote/Medizinisch-technische-Radiologieassistenten-m-w-d-7603941</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Medizinisch-technische/r Radiologieassistent/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Collm Klinik Oschatz&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04758 Oschatz Sachsen</description>
+      <guid isPermaLink="false">12513-0007603941-S</guid>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gesundheits- und Krankenpfleger/-in und Gesundheits- und ...</title>
+      <link>https://www.jobboerse-direkt.de/stellenangebote/Gesundheits-und-Krankenpfleger-in-m-w-d-7603943</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Gesundheits- und Krankenpflegehelfer/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Collm Klinik Oschatz&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04758 Oschatz Sachsen</description>
+      <guid isPermaLink="false">12513-0007603943-S</guid>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Diätassistent/-in (m/w/d)</title>
+      <link>https://www.jobboerse-direkt.de/stellenangebote/Diaetassistent-in-m-w-d-7603963</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Diätassistent/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Collm Klinik Oschatz&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04758 Oschatz Sachsen</description>
+      <guid isPermaLink="false">12513-0007603963-S</guid>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Medizinischer/-r Fachangestellte/-r / Gesundheits- und Kr...</title>
+      <link>https://www.jobboerse-direkt.de/stellenangebote/Medizinischer-r-Fachangestellte-r-7603985</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Gesundheits- und Krankenpfleger/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Collm Klinik Oschatz&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04758 Oschatz Sachsen</description>
+      <guid isPermaLink="false">12513-0007603985-S</guid>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Oberarzt (m/w/d) für Anästhesie und Intensivmedizin</title>
+      <link>https://www.jobboerse-direkt.de/stellenangebote/Oberarzt-m-w-d-fuer-Anaesthesie-und-Intensivmedizin-7603986</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Arzt/Ärztin&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Collm Klinik Oschatz&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04758 Oschatz Sachsen</description>
+      <guid isPermaLink="false">12513-0007603986-S</guid>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ausbildung Kaufmann im Einzelhandel (m/w/d)</title>
+      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=12608-1308184-10931-1-S</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Kaufmann/-frau - Einzelhandel&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Penny-Markt GmbH Verwaltung&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04862 Mockrehna Sachsen</description>
+      <guid isPermaLink="false">12608-1308184-10931-1-S</guid>
+      <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Klinikum St. Georg gGmbH: Ärzte in Weiterbildung (d/m/w) - Klinik für Kinder- und Jugendpsychiatrie</title>
+      <link>https://www.empfehlungsbund.de/job/276128</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Arzt/Ärztin&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Fachkrankenhaus Hubertusburg gGmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04779 Wermsdorf Sachsen</description>
+      <guid isPermaLink="false">11956-2761281755381601-S</guid>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Klinikum St. Georg gGmbH: Pflegefachkräfte (d/m/w) - Klinik für Kinder- und Jugendpsychiatrie</title>
+      <link>https://www.empfehlungsbund.de/job/276029</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Facharzt/-ärztin - Kinder- u. Jugendpsychiat. u. -psychoth.&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Fachkrankenhaus Hubertusburg gGmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04779 Wermsdorf Sachsen</description>
+      <guid isPermaLink="false">11956-2760291755381601-S</guid>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Klinikum St. Georg gGmbH: Heilerziehungspfleger (d/m/w) - Klinik für Psychiatrie und Psychotherapie</title>
+      <link>https://www.empfehlungsbund.de/job/276042</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Heilerziehungspfleger/in - Psychiatrie&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Fachkrankenhaus Hubertusburg gGmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04779 Wermsdorf Sachsen</description>
+      <guid isPermaLink="false">11956-2760421755381601-S</guid>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Klinikum St. Georg gGmbH: Facharzt / Fachärztin für Neurologie (d/m/w)</title>
+      <link>https://www.empfehlungsbund.de/job/276179</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Facharzt/-ärztin - Neurologie&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Klinikum St. Georg gGmbH - MVZ "Schloss Hubertusburg"&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04779 Wermsdorf Sachsen</description>
+      <guid isPermaLink="false">11956-2761791755381601-S</guid>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Klinikum St. Georg gGmbH: Pflegefachkräfte (d/m/w) - Klinik für Psychiatrie und Psychotherapie</title>
+      <link>https://www.empfehlungsbund.de/job/276036</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Facharzt/-ärztin - Psychiatrie und Psychotherapie&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Fachkrankenhaus Hubertusburg gGmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04779 Wermsdorf Sachsen</description>
+      <guid isPermaLink="false">11956-2760361755381601-S</guid>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Klinikum St. Georg gGmbH: Pflegefachkräfte (d/m/w) - Klinik für Neurologie</title>
+      <link>https://www.empfehlungsbund.de/job/276039</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Facharzt/-ärztin - Neurologie&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Fachkrankenhaus Hubertusburg gGmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04779 Wermsdorf Sachsen</description>
+      <guid isPermaLink="false">11956-2760391755381601-S</guid>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Klinikum St. Georg gGmbH: Facharzt / Fachärztin für Psychiatrie und Psychotherapie (d/m/w) </title>
+      <link>https://www.empfehlungsbund.de/job/276173</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Facharzt/-ärztin - Psychiatrie und Psychotherapie&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Klinikum St. Georg gGmbH - MVZ "Schloss Hubertusburg"&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04779 Wermsdorf Sachsen</description>
+      <guid isPermaLink="false">11956-2761731755381601-S</guid>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Klinikum St. Georg gGmbH: Ärzte in Weiterbildung (d/m/w) - Klinik für Neurologie und neurologische I</title>
+      <link>https://www.empfehlungsbund.de/job/276110</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Arzt/Ärztin&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Fachkrankenhaus Hubertusburg gGmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04779 Wermsdorf Sachsen</description>
+      <guid isPermaLink="false">11956-2761101755381601-S</guid>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Klinikum St. Georg gGmbH: Oberärztin / Oberarzt (d/m/w) - Klinik für Kinder- Jugendpsychiatrie (Tage</title>
+      <link>https://www.empfehlungsbund.de/job/276146</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Facharzt/-ärztin - Kinder- u. Jugendpsychiat. u. -psychoth.&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Fachkrankenhaus Hubertusburg gGmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04779 Wermsdorf Sachsen</description>
+      <guid isPermaLink="false">11956-2761461755381601-S</guid>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Klinikum St. Georg gGmbH: Ärzte in Weiterbildung (d/m/w) - Klinik für Psychiatrie und Psychotherapie</title>
+      <link>https://www.empfehlungsbund.de/job/276090</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Facharzt/-ärztin - Psychiatrie und Psychotherapie&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Fachkrankenhaus Hubertusburg gGmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04779 Wermsdorf Sachsen</description>
+      <guid isPermaLink="false">11956-2760901755381601-S</guid>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Klinikum St. Georg gGmbH: Ergotherapeuten (d/m/w) - Fachkrankenhaus Hubertusburg (Wermsdorf)</title>
+      <link>https://www.empfehlungsbund.de/job/278176</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Ergotherapeut/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Fachkrankenhaus Hubertusburg gGmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04779 Wermsdorf Sachsen</description>
+      <guid isPermaLink="false">11956-2781761755381601-S</guid>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Klinikum St. Georg gGmbH: Pflegefachkräfte (d/m/w) - Pflegepool</title>
+      <link>https://www.empfehlungsbund.de/job/276054</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Pflegefachmann/-frau (Altenpflege)&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Fachkrankenhaus Hubertusburg gGmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04779 Wermsdorf Sachsen</description>
+      <guid isPermaLink="false">11956-2760541755381601-S</guid>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Klinikum St. Georg gGmbH: Oberärztin / Oberarzt (d/m/w) - Klinik für Neurologie und neurologische In</title>
+      <link>https://www.empfehlungsbund.de/job/279075</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Facharzt/-ärztin - Neurologie&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Fachkrankenhaus Hubertusburg gGmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04779 Wermsdorf Sachsen</description>
+      <guid isPermaLink="false">11956-2790751755381601-S</guid>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Klinikum St. Georg gGmbH: Fachärztin/Facharzt - Kinder- und Jugendpsychiatrie (d/m/w; (FKH) 026/2024</title>
+      <link>https://www.empfehlungsbund.de/job/251104</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Facharzt/-ärztin - Kinder- und Jugendchirurgie&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Klinikum St. Georg gGmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04779 Wermsdorf Sachsen</description>
+      <guid isPermaLink="false">11956-2511041755381601-S</guid>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Klinikum St. Georg gGmbH: Oberärztin / Oberarzt (d/m/w) - Klinik für Kinder- und Jugendpsychiatrie</title>
+      <link>https://www.empfehlungsbund.de/job/276139</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Facharzt/-ärztin - Kinder- u. Jugendpsychiat. u. -psychoth.&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Fachkrankenhaus Hubertusburg gGmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04779 Wermsdorf Sachsen</description>
+      <guid isPermaLink="false">11956-2761391755381601-S</guid>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Klinikum St. Georg gGmbH: Pflegefachkräfte (d/m/w) - Intensivstation / Stroke Unit</title>
+      <link>https://www.empfehlungsbund.de/job/276057</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Business-Unit Leiter/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Fachkrankenhaus Hubertusburg gGmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04779 Wermsdorf Sachsen</description>
+      <guid isPermaLink="false">11956-2760571755381601-S</guid>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Klinikum St. Georg gGmbH: Logopäden (d/m/w)</title>
+      <link>https://www.empfehlungsbund.de/job/276065</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Logopäde/Logopädin&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Fachkrankenhaus Hubertusburg gGmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04779 Wermsdorf Sachsen</description>
+      <guid isPermaLink="false">11956-2760651755381601-S</guid>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Klinikum St. Georg gGmbH: Fachärzte (d/m/w) - Klinik für Neurologie und neurologische Intensivmedizi</title>
+      <link>https://www.empfehlungsbund.de/job/276113</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Facharzt/-ärztin - Neurologie&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Fachkrankenhaus Hubertusburg gGmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04779 Wermsdorf Sachsen</description>
+      <guid isPermaLink="false">11956-2761131755381601-S</guid>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Klinikum St. Georg gGmbH: Facharzt / Fachärztin für Hals-, Nasen-, Ohrenheilkunde (d/m/w)</title>
+      <link>https://www.empfehlungsbund.de/job/276176</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Facharzt/-ärztin - Hals-Nasen-Ohrenheilkunde&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Klinikum St. Georg gGmbH - MVZ "Schloss Hubertusburg"&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04779 Wermsdorf Sachsen</description>
+      <guid isPermaLink="false">11956-2761761755381601-S</guid>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Klinikum St. Georg gGmbH: Ausbildung Pflegefachfachkraft (d/m/w) - Fachkrankenhaus Hubertusburg gGmb</title>
+      <link>https://www.empfehlungsbund.de/job/212839</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Pflegefachmann/-frau (Ausbildung)&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Fachkrankenhaus Hubertusburg gGmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04779 Wermsdorf Sachsen</description>
+      <guid isPermaLink="false">11956-2128391755381601-S</guid>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Klinikum St. Georg gGmbH: Facharzt / Fachärztin (d/m/w) für Laboratoriumsmedizin</title>
+      <link>https://www.empfehlungsbund.de/job/278377</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Facharzt/-ärztin - Laboratoriumsmedizin&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Klinikum St. Georg gGmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04779 Wermsdorf Sachsen</description>
+      <guid isPermaLink="false">11956-2783771755381601-S</guid>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Klinikum St. Georg gGmbH: Fachärztin / Facharzt (d/m/w) - Klinik für Psychiatrie und Psychotherapie </title>
+      <link>https://www.empfehlungsbund.de/job/276105</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Facharzt/-ärztin - Psychiatrie und Psychotherapie&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Fachkrankenhaus Hubertusburg gGmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04779 Wermsdorf Sachsen</description>
+      <guid isPermaLink="false">11956-2761051755381601-S</guid>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Klinikum St. Georg gGmbH: Oberärztin / Oberarzt (d/m/w) - Klinik für Psychiatrie und Psychotherapie </title>
+      <link>https://www.empfehlungsbund.de/job/276102</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Facharzt/-ärztin - Psychosom. Medizin u. Psychotherapie&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Fachkrankenhaus Hubertusburg gGmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04779 Wermsdorf Sachsen</description>
+      <guid isPermaLink="false">11956-2761021755381601-S</guid>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Klinikum St. Georg gGmbH: Medizinische Fachangestellte (d/m/w) - Neurologie/Psychiatrie - Medizinisc</title>
+      <link>https://www.empfehlungsbund.de/job/279981</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Medizinische/r Fachangestellte/r&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Klinikum St. Georg gGmbH - MVZ "Schloss Hubertusburg"&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04779 Wermsdorf Sachsen</description>
+      <guid isPermaLink="false">11956-2799811755381601-S</guid>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Klinikum St. Georg gGmbH: Pflegefachkraft im Dauernachtdienst (d/m/w)</title>
+      <link>https://www.empfehlungsbund.de/job/276892</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Altenpfleger/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Fachkrankenhaus Hubertusburg gGmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04779 Wermsdorf Sachsen</description>
+      <guid isPermaLink="false">11956-2768921755381601-S</guid>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Klinikum St. Georg gGmbH: Oberärztin/Oberarzt - Schwerpunkt Suchtmedizin (d/m/w) - Klinik für Psychi</title>
+      <link>https://www.empfehlungsbund.de/job/276084</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Facharzt/-ärztin - Psychiatrie und Psychotherapie&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Fachkrankenhaus Hubertusburg gGmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04779 Wermsdorf Sachsen</description>
+      <guid isPermaLink="false">11956-2760841755381601-S</guid>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Klinikum St. Georg gGmbH: Physiotherapeut/-in / Sporttherapeut/-in / Bewegungstherapeut/-in (d/m/w)</title>
+      <link>https://www.empfehlungsbund.de/job/276069</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Sporttherapeut/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Fachkrankenhaus Hubertusburg gGmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04779 Wermsdorf Sachsen</description>
+      <guid isPermaLink="false">11956-2760691755381601-S</guid>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Klinikum St. Georg gGmbH: Oberärztin / Oberarzt (d/m/w) - Klinik für Psychiatrie und Psychotherapie</title>
+      <link>https://www.empfehlungsbund.de/job/276087</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Facharzt/-ärztin - Psychiatrie und Psychotherapie&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Fachkrankenhaus Hubertusburg gGmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04779 Wermsdorf Sachsen</description>
+      <guid isPermaLink="false">11956-2760871755381601-S</guid>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Klinikum St. Georg gGmbH: Medizinisch-technische/-r Radiologieassistent/-in / Medizinische/-r Techno</title>
+      <link>https://www.empfehlungsbund.de/job/276078</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Medizinisch-technische/r Radiologieassistent/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Fachkrankenhaus Hubertusburg gGmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04779 Wermsdorf Sachsen</description>
+      <guid isPermaLink="false">11956-2760781755381601-S</guid>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Klinikum St. Georg gGmbH: Fachärztin / Facharzt (d/m/w) - Klinik für Psychiatrie und Psychotherapie</title>
+      <link>https://www.empfehlungsbund.de/job/276093</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Facharzt/-ärztin - Psychiatrie und Psychotherapie&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Fachkrankenhaus Hubertusburg gGmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04779 Wermsdorf Sachsen</description>
+      <guid isPermaLink="false">11956-2760931755381601-S</guid>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Klinikum St. Georg gGmbH: Facharzt / Fachärztin für Psychiatrie und Psychotherapie (d/m/w) für einen</title>
+      <link>https://www.empfehlungsbund.de/job/276182</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Facharzt/-ärztin - Psychiatrie und Psychotherapie&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Klinikum St. Georg gGmbH - MVZ "Schloss Hubertusburg"&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04779 Wermsdorf Sachsen</description>
+      <guid isPermaLink="false">11956-2761821755381601-S</guid>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Klinikum St. Georg gGmbH: Fachärztin / Facharzt (d/m/w) - Klinik für Kinder- und Jugendpsychiatrie</title>
+      <link>https://www.empfehlungsbund.de/job/276118</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Facharzt/-ärztin - Kinder- und Jugendmedizin&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Fachkrankenhaus Hubertusburg gGmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04779 Wermsdorf Sachsen</description>
+      <guid isPermaLink="false">11956-2761181755381601-S</guid>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Klinikum St. Georg gGmbH: Facharzt/Fachärztin für Mikrobiologie, Virologie und Infektionsepidemiolog</title>
+      <link>https://www.empfehlungsbund.de/job/277004</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Facharzt/-ärztin - Mikrobiol./Virolog./Infektionsepi.&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Klinikum St. Georg gGmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04779 Wermsdorf Sachsen</description>
+      <guid isPermaLink="false">11956-2770041755381601-S</guid>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ausbildung zum Verfahrensmechaniker (m/w/d)</title>
+      <link>https://www.ausbildung.de/unternehmen/xella/stellen/ausbildung-zum-verfahrensmechaniker-m-w-d-1ugdek-x/?utm_campaign=kooperation&amp;utm_medium=jobfeed&amp;utm_source=bundesagentur</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Verfahrensmechaniker/in - Glastechnik&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Xella Deutschland GmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04838 Laußig Sachsen</description>
+      <guid isPermaLink="false">14756-4299f86f79024dee-S</guid>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Produktionsmitarbeiter (m/w/d)</title>
+      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=12521-VKHPPHV7N7IB1465-S</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Helfer/in - Metallbearbeitung&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; hsi personaldienste hart &amp; schenk GmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04838 Laußig Sachsen</description>
+      <guid isPermaLink="false">12521-VKHPPHV7N7IB1465-S</guid>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OTA (m/w/d) + Dienstwagen</title>
+      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10001-1001685894-S</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Operationstechnische/r Angestellte/r&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; avanti GmbH Leipzig&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04808 Wurzen Sachsen</description>
+      <guid isPermaLink="false">10001-1001685894-S</guid>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Mitarbeiter (m/w/d) für den automatisierten Glaszuschnitt</title>
@@ -408,13 +394,6 @@
       <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Warenverräumer (w/m/d) 4 Std./Wo. in 04860 Torgau</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=12787-243339040825-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Helfer/in - Verkauf&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; dm-drogerie markt GmbH + Co.KG&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04860 Torgau Sachsen</description>
-      <guid isPermaLink="false">12787-243339040825-S</guid>
-      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Staplerfahrer (m/w/d)</title>
       <link>https://jobboard.compleet.com/?externalId=4400334463</link>
       <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Gabelstaplerfahrer/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Randstad Deutschland&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04886 Beilrode Sachsen</description>
@@ -422,11 +401,18 @@
       <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Auszubildende Kaufleute im Einzelhandel (m/w/d) 2026</title>
-      <link>https://www.ausbildung.de/unternehmen/a-t-u-auto-teile-unger-gmbh-co-kg/stellen/auszubildende-kaufleute-im-einzelhandel-m-w-d-2026-ywltj1v7/?utm_campaign=kooperation&amp;utm_medium=jobfeed&amp;utm_source=bundesagentur</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Kaufmann/-frau - Einzelhandel&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; A.T.U Auto-Teile-Unger GmbH &amp; Co. KG&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04860 Torgau Sachsen</description>
-      <guid isPermaLink="false">14756-575efa6fe8d74345-S</guid>
-      <pubDate>Sat, 02 Aug 2025 00:00:00 +0000</pubDate>
+      <title>Ausbildung 2026</title>
+      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10000-1203448607-S</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Tischler/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Jörg Albrecht Tischlerei&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04889 Schildau, Gneisenaustadt Sachsen</description>
+      <guid isPermaLink="false">10000-1203448607-S</guid>
+      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Warenverräumer (w/m/d) 4 Std./Wo. in 04860 Torgau</title>
+      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=12787-243339040825-S</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Helfer/in - Verkauf&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; dm-drogerie markt GmbH + Co.KG&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04860 Torgau Sachsen</description>
+      <guid isPermaLink="false">12787-243339040825-S</guid>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Kraftfahrzeugmechatroniker/in - Personenkraftwagentechnik</title>
@@ -450,18 +436,18 @@
       <pubDate>Sun, 03 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Ausbildung 2026</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10000-1203448607-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Tischler/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Jörg Albrecht Tischlerei&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04889 Schildau, Gneisenaustadt Sachsen</description>
-      <guid isPermaLink="false">10000-1203448607-S</guid>
-      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Ausbildung Kraftfahrzeugmechatroniker/in - Personenkraftwagentechnik</title>
       <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10000-1203323479-S</link>
       <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Kraftfahrzeugmechatroniker/in - Personenkraftwagentechnik&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Gruma Automobile GmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04860 Torgau Sachsen</description>
       <guid isPermaLink="false">10000-1203323479-S</guid>
       <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Qualitätsmanagementbeauftragten (m/w/d)</title>
+      <link>https://www.jobboerse-direkt.de/stellenangebote/Qualitaetsmanagementbeauftragten-m-w-d-7603947</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Fachkraft - Qualitätssicherung/-management&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; AGC INTERPANE GmbH Belgern-Schildau&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04874 Belgern bei Torgau Sachsen</description>
+      <guid isPermaLink="false">12513-0007603947-S</guid>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Mitarbeiter Büro (m/w/d)</title>
@@ -492,6 +478,13 @@
       <pubDate>Sun, 03 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Notfallsanitäter (m/w/d) mit 39 h/Woche - keine Verlängerung der Arbeitszeit - keine...</title>
+      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=14271-1443108-1-S</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Notfallsanitäter/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Johanniter-Unfall-Hilfe e.V. Landesverband Sachsen&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04860 Torgau Sachsen</description>
+      <guid isPermaLink="false">14271-1443108-1-S</guid>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Produktionshelfer (m/w/d)</title>
       <link>https://jobboard.compleet.com/?externalId=4370292372</link>
       <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Helfer/in - Lagerwirtschaft, Transport&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Randstad Deutschland&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04860 Torgau Sachsen</description>
@@ -504,41 +497,6 @@
       <description>&lt;strong&gt;Beruf:&lt;/strong&gt; IT-Systemadministrator/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Workwise GmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04860 Torgau Sachsen</description>
       <guid isPermaLink="false">12288-4399559617-S</guid>
       <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Notfallsanitäter (m/w/d) mit 39 h/Woche - keine Verlängerung der Arbeitszeit - keine...</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=14271-1443108-1-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Notfallsanitäter/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Johanniter-Unfall-Hilfe e.V. Landesverband Sachsen&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04860 Torgau Sachsen</description>
-      <guid isPermaLink="false">14271-1443108-1-S</guid>
-      <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Leiter Dokumentation/ GIS (m/w/d)</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10001-1001665251-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Geoinformatiker/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Fernwasserversorgung Elbaue-Ostharz GmbH Torgau&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04860 Torgau Sachsen</description>
-      <guid isPermaLink="false">10001-1001665251-S</guid>
-      <pubDate>Fri, 08 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mitarbeiter für Trinkwasseraufbereitung und Qualitätssicherung (m/w/d)</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10001-1001665344-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Chemielaborant/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Fernwasserversorgung Elbaue-Ostharz GmbH Torgau&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04860 Torgau Sachsen</description>
-      <guid isPermaLink="false">10001-1001665344-S</guid>
-      <pubDate>Fri, 08 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kfz Mechatroniker Monteur (m/w/d) in Direktvermittlung gesucht!</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10001-1001659208-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Automobilmechaniker/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; finally work GmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04860 Torgau Sachsen</description>
-      <guid isPermaLink="false">10001-1001659208-S</guid>
-      <pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>LKW-Fahrer (m/w/d)</title>
-      <link>https://jobboard.compleet.com/?externalId=4405079107</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Berufskraftfahrer/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Randstad Deutschland&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04860 Torgau Sachsen</description>
-      <guid isPermaLink="false">11119-4405079107-S</guid>
-      <pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Kaufmann/-frau - Groß- und Außenhandelsmanag. (Großhandel)</title>
@@ -555,11 +513,18 @@
       <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Elektriker Elektroinstallateur Elektroniker Elektrofachkraft Elektrohelfer Elektromonteur (m/w/d)</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10001-1001661138-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Industrieelektriker/in - Betriebstechnik&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; HPS Jobs UG&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04860 Torgau Sachsen</description>
-      <guid isPermaLink="false">10001-1001661138-S</guid>
-      <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
+      <title>Leiter Dokumentation/ GIS (m/w/d)</title>
+      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10001-1001665251-S</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Geoinformatiker/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Fernwasserversorgung Elbaue-Ostharz GmbH Torgau&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04860 Torgau Sachsen</description>
+      <guid isPermaLink="false">10001-1001665251-S</guid>
+      <pubDate>Fri, 08 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mitarbeiter für Trinkwasseraufbereitung und Qualitätssicherung (m/w/d)</title>
+      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10001-1001665344-S</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Chemielaborant/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Fernwasserversorgung Elbaue-Ostharz GmbH Torgau&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04860 Torgau Sachsen</description>
+      <guid isPermaLink="false">10001-1001665344-S</guid>
+      <pubDate>Fri, 08 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Kraftfahrzeugmechatroniker/in - Personenkraftwagentechnik</title>
@@ -567,6 +532,34 @@
       <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Kraftfahrzeugmechatroniker/in - Personenkraftwagentechnik&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Autohaus Hägele Peugeot-Autohaus&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04860 Torgau Sachsen</description>
       <guid isPermaLink="false">10000-1203432161-S</guid>
       <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>LKW-Fahrer (m/w/d)</title>
+      <link>https://jobboard.compleet.com/?externalId=4405079107</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Berufskraftfahrer/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Randstad Deutschland&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04860 Torgau Sachsen</description>
+      <guid isPermaLink="false">11119-4405079107-S</guid>
+      <pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kfz Mechatroniker Monteur (m/w/d) in Direktvermittlung gesucht!</title>
+      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10001-1001659208-S</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Automobilmechaniker/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; finally work GmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04860 Torgau Sachsen</description>
+      <guid isPermaLink="false">10001-1001659208-S</guid>
+      <pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Elektriker Elektroinstallateur Elektroniker Elektrofachkraft Elektrohelfer Elektromonteur (m/w/d)</title>
+      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10001-1001661138-S</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Industrieelektriker/in - Betriebstechnik&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; HPS Jobs UG&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04860 Torgau Sachsen</description>
+      <guid isPermaLink="false">10001-1001661138-S</guid>
+      <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Land- und Baumaschinenmechatroniker/in</title>
+      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10000-1203443996-S</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Land- und Baumaschinenmechatroniker/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Ziesmann Baugeräte GmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04860 Torgau Sachsen</description>
+      <guid isPermaLink="false">10000-1203443996-S</guid>
+      <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Stellvertretender Küchenleiter / Koch (m/w/d)</title>
@@ -583,11 +576,11 @@
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Land- und Baumaschinenmechatroniker/in</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10000-1203443996-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Land- und Baumaschinenmechatroniker/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Ziesmann Baugeräte GmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04860 Torgau Sachsen</description>
-      <guid isPermaLink="false">10000-1203443996-S</guid>
-      <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
+      <title>Staplerfahrer (m/w/d) </title>
+      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=12306-8HUYMUHVJHZCTHPG-S</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Gabelstaplerfahrer/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; IC TEAM GS RIESA IC TEAM Personaldienste GmbH Zeitarbeit&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04860 Torgau Sachsen</description>
+      <guid isPermaLink="false">12306-8HUYMUHVJHZCTHPG-S</guid>
+      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Quereinsteiger:in als Zugverkehrssteuerer (w/m/d)</title>
@@ -601,13 +594,6 @@
       <link>https://www.arbeitsagentur.de/jobsuche/suche?id=13103-20061_JB4877776-S</link>
       <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Sicherheitsmitarbeiter/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Piepenbrock Dienstleistungsgruppe GmbH &amp; Co.KG&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04860 Torgau Sachsen</description>
       <guid isPermaLink="false">13103-20061_JB4877776-S</guid>
-      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Staplerfahrer (m/w/d) </title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=12306-8HUYMUHVJHZCTHPG-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Gabelstaplerfahrer/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; IC TEAM GS RIESA IC TEAM Personaldienste GmbH Zeitarbeit&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04860 Torgau Sachsen</description>
-      <guid isPermaLink="false">12306-8HUYMUHVJHZCTHPG-S</guid>
       <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -630,13 +616,6 @@
       <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Helfer/in - Metallbearbeitung&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Randstad Deutschland&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04860 Torgau Sachsen</description>
       <guid isPermaLink="false">11119-4400331486-S</guid>
       <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Reinigungskraft (m/w/d) Teilzeit in Torgau</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=17309-6430efbc52e6458-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Gebäudereiniger/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; ISD Immobilien Service Deutschland  GmbH &amp; Co. KG&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; Torgau Sachsen</description>
-      <guid isPermaLink="false">17309-6430efbc52e6458-S</guid>
-      <pubDate>Sun, 03 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Produktionsmitarbeiter (m/w/d)</title>
@@ -674,11 +653,32 @@
       <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Reinigungskraft (m/w/d) Teilzeit in Torgau</title>
+      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=17309-6430efbc52e6458-S</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Gebäudereiniger/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; ISD Immobilien Service Deutschland  GmbH &amp; Co. KG&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; Torgau Sachsen</description>
+      <guid isPermaLink="false">17309-6430efbc52e6458-S</guid>
+      <pubDate>Sun, 03 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Altenpfleger (m/w/d) + Dienstwagen</title>
       <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10001-1001685885-S</link>
       <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Altenpfleger/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; avanti GmbH Leipzig&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04860 Torgau Sachsen</description>
       <guid isPermaLink="false">10001-1001685885-S</guid>
       <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Klinikum St. Georg gGmbH: Sozialarbeiter / Sozialpädagoge (d/m/w)</title>
+      <link>https://www.empfehlungsbund.de/job/277710</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Sozialarbeiter/in / Sozialpädagoge/-pädagogin&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Fachkrankenhaus Hubertusburg gGmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04860 Torgau Sachsen</description>
+      <guid isPermaLink="false">11956-2777101755381601-S</guid>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Klinikum St. Georg gGmbH: Ergotherapeut/-in (d/m/w) - Fachkrankenhaus Hubertusburg (Tagesklinik Torg</title>
+      <link>https://www.empfehlungsbund.de/job/281837</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Ergotherapeut/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Fachkrankenhaus Hubertusburg gGmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04860 Torgau Sachsen</description>
+      <guid isPermaLink="false">11956-2818371755381601-S</guid>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Startprämie 2000,00€               Altenpfleger/in - Gesundheits- und Krankenpfleger/in</title>
