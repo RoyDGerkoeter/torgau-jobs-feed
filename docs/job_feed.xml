@@ -7,56 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Sun, 24 Aug 2025 06:12:17 +0000</lastBuildDate>
-    <item>
-      <title>Backstubenhelfer/-in gesucht</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10000-1203501696-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Helfer/in - Lebensmittelherstellung&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Bäckerei Viko Getzschmann&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04895 Falkenberg, Elster Brandenburg</description>
-      <guid isPermaLink="false">10000-1203501696-S</guid>
-      <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OTA (m/w/d) + Dienstwagen</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10001-1001717362-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Operationstechnische/r Angestellte/r&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; avanti GmbH Leipzig&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04808 Wurzen Sachsen</description>
-      <guid isPermaLink="false">10001-1001717362-S</guid>
-      <pubDate>Sat, 23 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fachgesundheits- und Krankenpfleger Anästhesie Intensiv (m/w/d) + Dienstwagen</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10001-1001717398-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Fachkrankenpfleger/in - Intensivpflege/Anästhesie&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; avanti GmbH Leipzig&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04808 Wurzen Sachsen</description>
-      <guid isPermaLink="false">10001-1001717398-S</guid>
-      <pubDate>Sat, 23 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Heilerziehungspfleger (m/w/d) + Dienstwagen</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10001-1001717431-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Heilerziehungspfleger/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; avanti GmbH Leipzig&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04808 Wurzen Sachsen</description>
-      <guid isPermaLink="false">10001-1001717431-S</guid>
-      <pubDate>Sat, 23 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fachgesundheits- und Krankenpfleger OP (m/w/d) + Dienstwagen</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10001-1001717449-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Fachkrankenschwester/-pfleger - Operationsdienst&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; avanti GmbH Leipzig&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04808 Wurzen Sachsen</description>
-      <guid isPermaLink="false">10001-1001717449-S</guid>
-      <pubDate>Sat, 23 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ausbildung zum Verkäufer (m/w/d)</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=18279-14-4831-A2026-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Verkäufer/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Netto Marken-Discount Stiftung &amp; Co. KG&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04895 Falkenberg, Elster Brandenburg</description>
-      <guid isPermaLink="false">18279-14-4831-A2026-S</guid>
-      <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fachausbildung zum Marktleiter (m/w/d)</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=18279-16-4831-A2026-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Kaufmann/-frau - Einzelhandel&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Netto Marken-Discount Stiftung &amp; Co. KG&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04895 Falkenberg, Elster Brandenburg</description>
-      <guid isPermaLink="false">18279-16-4831-A2026-S</guid>
-      <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 25 Aug 2025 06:14:51 +0000</lastBuildDate>
     <item>
       <title>Ausbildung 2026</title>
       <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10000-1203448607-S</link>
@@ -65,25 +16,11 @@
       <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Ausbildung 2026 zum Elektroniker (m/w/d)</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10000-1203492276-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Elektroniker/in - Energie- und Gebäudetechnik&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Ronald Richter&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04895 Falkenberg, Elster Brandenburg</description>
-      <guid isPermaLink="false">10000-1203492276-S</guid>
-      <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fachkraft (m/w/d) gesucht</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10000-1203492317-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Elektroniker/in - Energie- und Gebäudetechnik&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Ronald Richter&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04895 Falkenberg, Elster Brandenburg</description>
-      <guid isPermaLink="false">10000-1203492317-S</guid>
-      <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mitarbeiter (m/w/d) für Zuarbeit auf Baustellen gesucht</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10000-1203492330-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Helfer/in - Elektro&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Ronald Richter&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04895 Falkenberg, Elster Brandenburg</description>
-      <guid isPermaLink="false">10000-1203492330-S</guid>
-      <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
+      <title>Ausbildung als Fahrdienstleiter</title>
+      <link>https://gute-jobs.de/viewjob-7rpdf?utm_source=jsba-premium&amp;utm_medium=n-a&amp;utm_campaign=jsba-premium&amp;utm_term=ausbildung-als-fahrdienstleiter</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Eisenbahner/in - Zugverkehrssteuerung&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Deutsche Bahn AG&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04895 Falkenberg, Elster Brandenburg</description>
+      <guid isPermaLink="false">12336-a25f1188j0426226-S</guid>
+      <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Staplerfahrer (m/w/d)</title>
@@ -91,55 +28,6 @@
       <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Gabelstaplerfahrer/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Randstad Deutschland&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04886 Beilrode Sachsen</description>
       <guid isPermaLink="false">11119-4400334463-S</guid>
       <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Duales Studium Bachelor of Engineering-Elektrotechnik Studienrichtung Automatisierungstechnik(m/w/d)</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10000-1203518674-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; N/A&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; SCHULZ Systemtechnik GmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04838 Doberschütz Sachsen</description>
-      <guid isPermaLink="false">10000-1203518674-S</guid>
-      <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ausbildung Elektroniker Fachrichtung Energie- und Gebäudetechnik (m/w/d)</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10000-1203518892-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Elektroniker/in - Energie- und Gebäudetechnik&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; SCHULZ Systemtechnik GmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04838 Doberschütz Sachsen</description>
-      <guid isPermaLink="false">10000-1203518892-S</guid>
-      <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ausbildung Elektroniker Fachrichtung Automatisierungs- und Systemtechnik (m/w/d)</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10000-1203518940-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Elektroniker/in - Automatisierungs- und Systemtechnik&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; SCHULZ Systemtechnik GmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04838 Doberschütz Sachsen</description>
-      <guid isPermaLink="false">10000-1203518940-S</guid>
-      <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pflegefachmann/-frau 2026</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10000-1203523026-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Pflegefachmann/-frau (Ausbildung)&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Fatima Krumpfe GmbH Häusliche Alten- und Krankenpflege&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04931 Mühlberg, Elbe Brandenburg</description>
-      <guid isPermaLink="false">10000-1203523026-S</guid>
-      <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hausmeister/in</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10000-1203462519-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Hausmeister/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Daniel Hissung Schäferei&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04886 Beilrode Sachsen</description>
-      <guid isPermaLink="false">10000-1203462519-S</guid>
-      <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tierwirt/in - Schäferei</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10000-1203462234-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Tierwirt/in - Schäferei&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Daniel Hissung Schäferei&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04886 Beilrode Sachsen</description>
-      <guid isPermaLink="false">10000-1203462234-S</guid>
-      <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ausbildung als Fahrdienstleiter</title>
-      <link>https://gute-jobs.de/viewjob-7rpdf?utm_source=jsba-premium&amp;utm_medium=n-a&amp;utm_campaign=jsba-premium&amp;utm_term=ausbildung-als-fahrdienstleiter</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Eisenbahner/in - Zugverkehrssteuerung&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Deutsche Bahn AG&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04895 Falkenberg, Elster Brandenburg</description>
-      <guid isPermaLink="false">12336-a25f1188j0426226-S</guid>
-      <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Ausbildung zum Mechatroniker (m/w/d) 2026</title>
@@ -163,25 +51,25 @@
       <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>ATA (m/w/d) + Dienstwagen</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10001-1001717461-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Anästhesietechnische/r Assistent/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; avanti GmbH Leipzig&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04838 Eilenburg Sachsen</description>
-      <guid isPermaLink="false">10001-1001717461-S</guid>
-      <pubDate>Sun, 24 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ausbildung zum Kaufmann im Einzelhandel (m/w/d) 2026</title>
-      <link>https://www.azubi.de/ausbildungsplatz/10406121-p-?utm_campaign=BAG&amp;utm_medium=premiumcpc&amp;utm_source=BAG</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Kaufmann/-frau - Einzelhandel&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Kaufland&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04838 Eilenburg Sachsen</description>
-      <guid isPermaLink="false">12857-10406121-S</guid>
-      <pubDate>Sun, 24 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Hausmeister/in</title>
       <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10000-1203521279-S</link>
       <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Hausmeister/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Dienstleistungszentrum Bucha Inh. Dr. Bodo Gehrmann OT Bucha&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04758 Cavertitz Sachsen</description>
       <guid isPermaLink="false">10000-1203521279-S</guid>
       <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hausmeister/in</title>
+      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10000-1203462519-S</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Hausmeister/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Daniel Hissung Schäferei&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04886 Beilrode Sachsen</description>
+      <guid isPermaLink="false">10000-1203462519-S</guid>
+      <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tierwirt/in - Schäferei</title>
+      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10000-1203462234-S</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Tierwirt/in - Schäferei&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Daniel Hissung Schäferei&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04886 Beilrode Sachsen</description>
+      <guid isPermaLink="false">10000-1203462234-S</guid>
+      <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Ausbildung zum Verkäufer (m/w/d)</title>
@@ -205,41 +93,6 @@
       <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Ausbilder (m/w/d) im Berufsfeld HoGa_Hauswirtschaft,Delitzsch,Eilenburg</title>
-      <link>https://www.finest-jobs.com/Stellenanzeige/Ausbilder-D-Im-Berufsfeld-Hogahauswirtschaft-1156912?cp=BA</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Ausbilder/in - Hauswirtschaft&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Fortbildungsakademie der Wirtschaft (FAW) gemeinnützige Gesellschaft mbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04838 Eilenburg Sachsen</description>
-      <guid isPermaLink="false">12811-1915645-S</guid>
-      <pubDate>Sun, 24 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sozialpädagoge / Sozialarbeiter (m/w/d), Akademie Cottbus, Außenstelle</title>
-      <link>https://www.finest-jobs.com/Stellenanzeige/Sozialpaedagoge-Sozialarbeiter-D-1149073?cp=BA</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Sozialarbeiter/in / Sozialpädagoge/-pädagogin&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Fortbildungsakademie der Wirtschaft (FAW) gemeinnützige Gesellschaft mbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04924 Bad Liebenwerda Brandenburg</description>
-      <guid isPermaLink="false">12811-1915564-S</guid>
-      <pubDate>Sun, 24 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Staplerfahrer (m/w/d), Mineralquellen Bad Liebenwerda GmbH</title>
-      <link>https://www.finest-jobs.com/Stellenanzeige/Staplerfahrer-D-593394?cp=BA</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Gabelstaplerfahrer/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Mineralquellen Bad Liebenwerda&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04924 Bad Liebenwerda Brandenburg</description>
-      <guid isPermaLink="false">12811-1915866-S</guid>
-      <pubDate>Sun, 24 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ausbildung 2025</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10000-1203468475-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Tierwirt/in - Schäferei&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Daniel Hissung Schäferei&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04886 Beilrode Sachsen</description>
-      <guid isPermaLink="false">10000-1203468475-S</guid>
-      <pubDate>Tue, 19 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ausbildung 2026</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10000-1203468562-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Tierwirt/in - Schäferei&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Daniel Hissung Schäferei&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04886 Beilrode Sachsen</description>
-      <guid isPermaLink="false">10000-1203468562-S</guid>
-      <pubDate>Tue, 19 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Ausbildung zum Verkäufer (m/w/d)</title>
       <link>https://www.arbeitsagentur.de/jobsuche/suche?id=18279-14-4932-A2026-S</link>
       <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Verkäufer/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Netto Marken-Discount Stiftung &amp; Co. KG&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04862 Mockrehna Sachsen</description>
@@ -261,11 +114,32 @@
       <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Datenerfasser/in alternativ Bürokraft (m/w/d)</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10000-1203502241-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Datenerfasser/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Lücking &amp; Härtel GmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04889 Schildau, Gneisenaustadt Sachsen</description>
-      <guid isPermaLink="false">10000-1203502241-S</guid>
-      <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
+      <title>Ausbildung zum Kaufmann im Einzelhandel (m/w/d)</title>
+      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=18279-15-5114-A2026-S</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Kaufmann/-frau - Einzelhandel&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Netto Marken-Discount Stiftung &amp; Co. KG&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 06917 Jessen (Elster) Sachsen-Anhalt</description>
+      <guid isPermaLink="false">18279-15-5114-A2026-S</guid>
+      <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fachausbildung zum Marktleiter (m/w/d)</title>
+      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=18279-16-5114-A2026-S</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Kaufmann/-frau - Einzelhandel&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Netto Marken-Discount Stiftung &amp; Co. KG&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 06917 Jessen (Elster) Sachsen-Anhalt</description>
+      <guid isPermaLink="false">18279-16-5114-A2026-S</guid>
+      <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ausbildung 2025</title>
+      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10000-1203468475-S</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Tierwirt/in - Schäferei&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Daniel Hissung Schäferei&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04886 Beilrode Sachsen</description>
+      <guid isPermaLink="false">10000-1203468475-S</guid>
+      <pubDate>Tue, 19 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ausbildung 2026</title>
+      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10000-1203468562-S</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Tierwirt/in - Schäferei&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Daniel Hissung Schäferei&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04886 Beilrode Sachsen</description>
+      <guid isPermaLink="false">10000-1203468562-S</guid>
+      <pubDate>Tue, 19 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Ingenieur Elektrotechnik Schutz- und Leittechnik (m|w|d)</title>
@@ -273,6 +147,48 @@
       <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Ingenieur/in - Elektrotechnik&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; envia Mitteldeutsche Energie AG&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04895 Falkenberg, Elster Brandenburg</description>
       <guid isPermaLink="false">12336-a25f999j0426282-S</guid>
       <pubDate>Sat, 23 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ausbildung zum Kaufmann im Einzelhandel (m/w/d)</title>
+      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=18279-15-4796-A2026-S</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Kaufmann/-frau - Einzelhandel&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Netto Marken-Discount Stiftung &amp; Co. KG&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 06917 Jessen (Elster) Sachsen-Anhalt</description>
+      <guid isPermaLink="false">18279-15-4796-A2026-S</guid>
+      <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fachausbildung zum Marktleiter (m/w/d)</title>
+      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=18279-16-4796-A2026-S</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Kaufmann/-frau - Einzelhandel&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Netto Marken-Discount Stiftung &amp; Co. KG&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 06917 Jessen (Elster) Sachsen-Anhalt</description>
+      <guid isPermaLink="false">18279-16-4796-A2026-S</guid>
+      <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Datenerfasser/in alternativ Bürokraft (m/w/d)</title>
+      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10000-1203502241-S</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Datenerfasser/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Lücking &amp; Härtel GmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04889 Schildau, Gneisenaustadt Sachsen</description>
+      <guid isPermaLink="false">10000-1203502241-S</guid>
+      <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fachausbildung zum Marktleiter (m/w/d)</title>
+      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=18279-16-4980-A2026-S</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Kaufmann/-frau - Einzelhandel&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Netto Marken-Discount Stiftung &amp; Co. KG&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04758 Oschatz Sachsen</description>
+      <guid isPermaLink="false">18279-16-4980-A2026-S</guid>
+      <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ausbildung zum Kaufmann im Einzelhandel (m/w/d)</title>
+      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=18279-15-4851-A2026-S</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Kaufmann/-frau - Einzelhandel&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Netto Marken-Discount Stiftung &amp; Co. KG&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 06905 Bad Schmiedeberg Sachsen-Anhalt</description>
+      <guid isPermaLink="false">18279-15-4851-A2026-S</guid>
+      <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fachausbildung zum Marktleiter (m/w/d)</title>
+      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=18279-16-4851-A2026-S</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Kaufmann/-frau - Einzelhandel&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Netto Marken-Discount Stiftung &amp; Co. KG&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 06905 Bad Schmiedeberg Sachsen-Anhalt</description>
+      <guid isPermaLink="false">18279-16-4851-A2026-S</guid>
+      <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Ausbildung zum Kaufmann im Einzelhandel (m/w/d) 2026</title>
@@ -286,6 +202,20 @@
       <link>https://www.azubi.de/ausbildungsplatz/10406896-p-?utm_campaign=BAG&amp;utm_medium=premiumcpc&amp;utm_source=BAG</link>
       <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Verkäufer/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Kaufland&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04808 Lossatal Sachsen</description>
       <guid isPermaLink="false">12857-10406896-S</guid>
+      <pubDate>Sun, 24 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ausbildung Zugverkehrssteuerer 2026 (w/m/d)</title>
+      <link>https://www.azubi.de/ausbildungsplatz/9976044-p-?utm_campaign=BAG&amp;utm_medium=premiumcpc&amp;utm_source=BAG</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Eisenbahner/in - Betriebsdienst - Lokführer/in und Transport&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Deutsche Bahn AG&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04895 Falkenberg, Elster Brandenburg</description>
+      <guid isPermaLink="false">12857-9976044-S</guid>
+      <pubDate>Sun, 24 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ausbildung Gleisbauer:in 2026</title>
+      <link>https://www.azubi.de/ausbildungsplatz/9976129-p-?utm_campaign=BAG&amp;utm_medium=premiumcpc&amp;utm_source=BAG</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Gleisbauer/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Deutsche Bahn AG&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04895 Falkenberg, Elster Brandenburg</description>
+      <guid isPermaLink="false">12857-9976129-S</guid>
       <pubDate>Sun, 24 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -308,6 +238,55 @@
       <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Kaufmann/-frau - Einzelhandel&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Netto Marken-Discount Stiftung &amp; Co. KG&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04889 Schildau, Gneisenaustadt Sachsen</description>
       <guid isPermaLink="false">18279-16-4920-A2026-S</guid>
       <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Land- und Baumaschinenmechatroniker (w/m/d)</title>
+      <link>https://www.brandenburger-jobanzeiger.de/job/detail/20250814-REG28028249/?utm_campaign=free&amp;utm_source=bundesagentur&amp;utm_medium=unpaid-partner</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Land- und Baumaschinenmechatroniker/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; S&amp;L Connect GmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04916 Herzberg, Elster Brandenburg</description>
+      <guid isPermaLink="false">12688-28028249-RJA-S</guid>
+      <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Einkäufer (m/w/d) Material- und Nachunternehmerleistungen im Baugewerbe</title>
+      <link>https://www.brandenburger-jobanzeiger.de/job/detail/20250724-REG28014935/?utm_campaign=free&amp;utm_source=bundesagentur&amp;utm_medium=unpaid-partner</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Einkäufer/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; EUROVIA Verkehrsbau GmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04916 Herzberg, Elster Brandenburg</description>
+      <guid isPermaLink="false">12688-28014935-RJA-S</guid>
+      <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Elektroniker*in für Betriebstechnik</title>
+      <link>https://studyflix.de/ausbildung/angebote/392030?l=704630&amp;utm_source=ba</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Industrieelektriker/in - Betriebstechnik&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; enviaM-Gruppe&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04895 Falkenberg, Elster Brandenburg</description>
+      <guid isPermaLink="false">16818-100704630-S</guid>
+      <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Dynamics CRM Berater (m/w/d)</title>
+      <link>https://www.persy.jobs/persy/l/job-gp1zr-b</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; CRM-Consultant&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Workwise GmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04774 Dahlen, Sachsen Sachsen</description>
+      <guid isPermaLink="false">12288-4436911566-S</guid>
+      <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ausbildung zum Kaufmann im Einzelhandel (m/w/d)</title>
+      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=18279-15-4831-A2026-S</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Kaufmann/-frau - Einzelhandel&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Netto Marken-Discount Stiftung &amp; Co. KG&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04895 Falkenberg, Elster Brandenburg</description>
+      <guid isPermaLink="false">18279-15-4831-A2026-S</guid>
+      <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ausbildung zum Kaufmann im Einzelhandel (m/w/d)</title>
+      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=18279-15-5130-A2026-S</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Kaufmann/-frau - Einzelhandel&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Netto Marken-Discount Stiftung &amp; Co. KG&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 06925 Annaburg, Sachsen-Anhalt Sachsen-Anhalt</description>
+      <guid isPermaLink="false">18279-15-5130-A2026-S</guid>
+      <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fachausbildung zum Marktleiter (m/w/d)</title>
+      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=18279-16-5130-A2026-S</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Kaufmann/-frau - Einzelhandel&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Netto Marken-Discount Stiftung &amp; Co. KG&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 06925 Annaburg, Sachsen-Anhalt Sachsen-Anhalt</description>
+      <guid isPermaLink="false">18279-16-5130-A2026-S</guid>
+      <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Kaufmann/-frau - Groß- und Außenhandelsmanag. (Großhandel)</title>
@@ -345,20 +324,6 @@
       <pubDate>Tue, 19 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Land- und Baumaschinenmechatroniker/in</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10000-1203443996-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Land- und Baumaschinenmechatroniker/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Ziesmann Baugeräte GmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04860 Torgau Sachsen</description>
-      <guid isPermaLink="false">10000-1203443996-S</guid>
-      <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Autoglas, Vollzeit, Monteure m/w/d, Quereinsteiger/ innen Torgau</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10000-1203461302-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Fahrzeugglaser/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Autoglaser-direkt UG (haftungsbeschränkt)&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04860 Torgau Sachsen</description>
-      <guid isPermaLink="false">10000-1203461302-S</guid>
-      <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>SCHULBEGLEITUNG BEILRODE (jedes Geschlecht) #2025-025</title>
       <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10001-1001709001-S</link>
       <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Erzieher/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; BSW Muldental e.V.&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04886 Beilrode Sachsen</description>
@@ -371,6 +336,20 @@
       <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Heilpädagoge/-pädagogin&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; BSW Muldental e.V.&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04886 Beilrode Sachsen</description>
       <guid isPermaLink="false">10001-1001709007-S</guid>
       <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Autoglas, Vollzeit, Monteure m/w/d, Quereinsteiger/ innen Torgau</title>
+      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10000-1203461302-S</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Fahrzeugglaser/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Autoglaser-direkt UG (haftungsbeschränkt)&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04860 Torgau Sachsen</description>
+      <guid isPermaLink="false">10000-1203461302-S</guid>
+      <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Land- und Baumaschinenmechatroniker/in</title>
+      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10000-1203443996-S</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Land- und Baumaschinenmechatroniker/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Ziesmann Baugeräte GmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04860 Torgau Sachsen</description>
+      <guid isPermaLink="false">10000-1203443996-S</guid>
+      <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Ausbildung zum Verkäufer (m/w/d)</title>
@@ -408,6 +387,27 @@
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Ausbildung zum Verkäufer (m/w/d)</title>
+      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=18279-14-4957-A2026-S</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Verkäufer/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Netto Marken-Discount Stiftung &amp; Co. KG&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04860 Torgau Sachsen</description>
+      <guid isPermaLink="false">18279-14-4957-A2026-S</guid>
+      <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ausbildung zum Kaufmann im Einzelhandel (m/w/d)</title>
+      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=18279-15-4957-A2026-S</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Kaufmann/-frau - Einzelhandel&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Netto Marken-Discount Stiftung &amp; Co. KG&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04860 Torgau Sachsen</description>
+      <guid isPermaLink="false">18279-15-4957-A2026-S</guid>
+      <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fachausbildung zum Marktleiter (m/w/d)</title>
+      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=18279-16-4957-A2026-S</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Kaufmann/-frau - Einzelhandel&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Netto Marken-Discount Stiftung &amp; Co. KG&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04860 Torgau Sachsen</description>
+      <guid isPermaLink="false">18279-16-4957-A2026-S</guid>
+      <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Staplerfahrer (m/w/d) </title>
       <link>https://www.arbeitsagentur.de/jobsuche/suche?id=12306-8HUYMUHVJHZCTHPG-S</link>
       <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Gabelstaplerfahrer/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; IC TEAM GS RIESA IC TEAM Personaldienste GmbH Zeitarbeit&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04860 Torgau Sachsen</description>
@@ -441,27 +441,6 @@
       <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Gabelstaplerfahrer/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; ACCURAT Gesellschaft für Personaldienstleistungen mbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04860 Torgau Sachsen</description>
       <guid isPermaLink="false">12739-L1XNB5IAHIZO7FA0-S</guid>
       <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ausbildung zum Verkäufer (m/w/d)</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=18279-14-4957-A2026-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Verkäufer/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Netto Marken-Discount Stiftung &amp; Co. KG&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04860 Torgau Sachsen</description>
-      <guid isPermaLink="false">18279-14-4957-A2026-S</guid>
-      <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ausbildung zum Kaufmann im Einzelhandel (m/w/d)</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=18279-15-4957-A2026-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Kaufmann/-frau - Einzelhandel&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Netto Marken-Discount Stiftung &amp; Co. KG&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04860 Torgau Sachsen</description>
-      <guid isPermaLink="false">18279-15-4957-A2026-S</guid>
-      <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fachausbildung zum Marktleiter (m/w/d)</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=18279-16-4957-A2026-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Kaufmann/-frau - Einzelhandel&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Netto Marken-Discount Stiftung &amp; Co. KG&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04860 Torgau Sachsen</description>
-      <guid isPermaLink="false">18279-16-4957-A2026-S</guid>
-      <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Quereinsteiger Produktion (m/w/d)</title>
@@ -625,20 +604,6 @@
       <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Startprämie 2000,00€               Altenpfleger/in - Gesundheits- und Krankenpfleger/in</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10001-1001670835-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Altenpfleger/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Blackworx GmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; Torgau Sachsen</description>
-      <guid isPermaLink="false">10001-1001670835-S</guid>
-      <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Walzenfahrer, Fertiger- u. Baggerfahrer (m/w/d)</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10001-1001676684-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Baugeräteführer/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Büroservice &amp; Arbeitsvermittlung Uta Hager&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; Torgau Sachsen</description>
-      <guid isPermaLink="false">10001-1001676684-S</guid>
-      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Gesundheits- und Krankenpfleger (m/w/d) + Dienstwagen</title>
       <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10001-1001717415-S</link>
       <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Gesundheits- und Krankenpfleger/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; avanti GmbH Leipzig&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04860 Torgau Sachsen</description>
@@ -653,11 +618,18 @@
       <pubDate>Sat, 23 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Fachinformatiker Systemintegration (m/w/d)</title>
-      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10001-1001686972-S</link>
-      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Fachinformatiker/in - Systemintegration&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; ncsolution GmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; Torgau Sachsen</description>
-      <guid isPermaLink="false">10001-1001686972-S</guid>
-      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
+      <title>Startprämie 2000,00€               Altenpfleger/in - Gesundheits- und Krankenpfleger/in</title>
+      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10001-1001670835-S</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Altenpfleger/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Blackworx GmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; Torgau Sachsen</description>
+      <guid isPermaLink="false">10001-1001670835-S</guid>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Walzenfahrer, Fertiger- u. Baggerfahrer (m/w/d)</title>
+      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10001-1001676684-S</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Baugeräteführer/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Büroservice &amp; Arbeitsvermittlung Uta Hager&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; Torgau Sachsen</description>
+      <guid isPermaLink="false">10001-1001676684-S</guid>
+      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Ausbildung zum Verkäufer (m/w/d) 2026</title>
@@ -665,6 +637,34 @@
       <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Verkäufer/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Kaufland&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04860 Torgau Sachsen</description>
       <guid isPermaLink="false">12857-10405132-S</guid>
       <pubDate>Sun, 24 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fachinformatiker Systemintegration (m/w/d)</title>
+      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10001-1001686972-S</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Fachinformatiker/in - Systemintegration&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; ncsolution GmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; Torgau Sachsen</description>
+      <guid isPermaLink="false">10001-1001686972-S</guid>
+      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mitarbeiter (m/w/d) technischer Bereich - Rathaus</title>
+      <link>https://www.arbeitsagentur.de/jobsuche/suche?id=10000-1203524852-S</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Gebäudereiniger/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Stadtverwaltung Torgau KdöR&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04860 Torgau Sachsen</description>
+      <guid isPermaLink="false">10000-1203524852-S</guid>
+      <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>IT-Systemadministrator für Infrastruktur (m/w/d)</title>
+      <link>https://www.persy.jobs/persy/l/job-gp8rh-b</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; IT-Systemadministrator/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Workwise GmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04860 Torgau Sachsen</description>
+      <guid isPermaLink="false">12288-4438244498-S</guid>
+      <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Volljurist (m/w/d)</title>
+      <link>https://www.leipziger-jobanzeiger.de/job/detail/20250817-REG28074876/?utm_campaign=free&amp;utm_source=bundesagentur&amp;utm_medium=unpaid-partner</link>
+      <description>&lt;strong&gt;Beruf:&lt;/strong&gt; Jurist/in&lt;br&gt;&lt;strong&gt;Arbeitgeber:&lt;/strong&gt; Mercer Timber Products GmbH&lt;br&gt;&lt;strong&gt;Ort:&lt;/strong&gt; 04860 Torgau Sachsen</description>
+      <guid isPermaLink="false">12688-28074876-RJA-S</guid>
+      <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Handelsvertreter (m/w/d) für Reinigungssystem in Sachsen gesucht</title>
